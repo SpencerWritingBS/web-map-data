@@ -13,13 +13,13 @@
         {
           "id": "function",
           "label": "Fable Function",
-          "href": "https://socratesonthebeach.com/nick-norton"
+          "href": "https://socratesonthebeach.com/nick-norton",
           "description": "A challenging essay on the function of the fable in society."
         },
         {
           "id": "yu",
           "label": "Fable by Charles Yu",
-          "href": "https://www.newyorker.com/magazine/2016/05/30/fable-by-charles-yu"
+          "href": "https://www.newyorker.com/magazine/2016/05/30/fable-by-charles-yu",
           "description": "A heartbreaking tale from Charles Yu. I read it and cry once a year."
         }
       ]
@@ -35,7 +35,7 @@
           "label": "Hanging Fire",
           "type": "image",
           "src": "https://www.icaboston.org/wp-content/uploads/2023/03/parkerhanging-firehr750.jpg",
-          "href": "https://www.icaboston.org/art/cornelia-parker/hanging-fire-suspected-arson/"
+          "href": "https://www.icaboston.org/art/cornelia-parker/hanging-fire-suspected-arson/",
           "description": "Cornelia Parker's stunning scultpure. A huge inspiration for this story."
         },
         {
@@ -43,7 +43,7 @@
           "label": "Gelmeroda IV",
           "type": "image",
           "src": "https://www.guggenheim.org/wp-content/uploads/1915/01/54.1410_ph_web-1.jpg",
-          "href": "https://www.guggenheim.org/artwork/1220"
+          "href": "https://www.guggenheim.org/artwork/1220",
           "description": "Lyonel Feinger's study of the Gelmeroda cathedral, one of many in a series."
         },
         {
@@ -51,7 +51,7 @@
           "label": "Long distance",
           "type": "image",
           "src": "https://www.guggenheim.org/wp-content/uploads/1916/01/79.2602.2_ph_web-1.jpg",
-          "href": "https://www.guggenheim.org/artwork/32208"
+          "href": "https://www.guggenheim.org/artwork/32208",
           "description": "Man Ray's painting Long Distance."
         },
         {
@@ -59,7 +59,7 @@
           "label": "Vertical Accents",
           "type": "image",
           "src": "https://www.wassilykandinsky.net/images/works/746.jpg?version=7",
-          "href": "https://www.wassilykandinsky.net/work-746.php"
+          "href": "https://www.wassilykandinsky.net/work-746.php",
           "description": "Wassily Kandinsky's painting Vertical Accents."
         },
       ]
