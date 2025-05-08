@@ -7,7 +7,8 @@
         {
           "id": "fairy",
           "label": "Fairy Tale as Form",
-          "href": "https://www.are.na/block/10278512"
+          "href": "https://www.are.na/block/10278512",
+          "description": "Explores the structure of fairy tales as narrative devices."
         },
         {
           "id": "function",
@@ -30,7 +31,8 @@
         {
           "id": "sunmachine-child1",
           "label": "Symbiosis Theme",
-          "href": "https://example.com/symbiosis"
+          "href": "https://example.com/symbiosis",
+          "description": "The partnership between machine and sun-devourer."
         },
         {
           "id": "sunmachine-child2",
@@ -41,22 +43,6 @@
           "id": "sunmachine-child3",
           "label": "Solar Transition Sequence",
           "href": "https://example.com/solar"
-        }
-      ]
-    },
-    {
-      "id": "maxwell",
-      "label": "Maxwell Ardeen",
-      "children": [
-        {
-          "id": "maxwell-child1",
-          "label": "Immortality & Art",
-          "href": "https://example.com/eternity"
-        },
-        {
-          "id": "maxwell-child2",
-          "label": "Virtual Curation",
-          "href": "https://example.com/virtual"
         }
       ]
     }
@@ -74,6 +60,8 @@
         {
           "id": "fragment1",
           "label": "Fragment: Shoreline",
+          "type": "image",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Beach_shoreline_2007_G1.jpg",
           "href": "https://example.com/shoreline"
         }
       ]
