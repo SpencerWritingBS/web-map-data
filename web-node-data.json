@@ -1,1 +1,82 @@
-
+{
+  "topic": [
+    {
+      "id": "myth",
+      "label": "Myth/Fable",
+      "children": [
+        {
+          "id": "fairy",
+          "label": "Fairy Tale as Form",
+          "href": "https://www.are.na/block/10278512"
+        },
+        {
+          "id": "function",
+          "label": "Fable Function",
+          "href": "https://socratesonthebeach.com/nick-norton"
+        },
+        {
+          "id": "yu",
+          "label": "Fable by Charles Yu",
+          "href": "https://www.newyorker.com/magazine/2016/05/30/fable-by-charles-yu"
+        }
+      ]
+    }
+  ],
+  "story": [
+    {
+      "id": "sunmachine",
+      "label": "The Sun Machine",
+      "children": [
+        {
+          "id": "sunmachine-child1",
+          "label": "Symbiosis Theme",
+          "href": "https://example.com/symbiosis"
+        },
+        {
+          "id": "sunmachine-child2",
+          "label": "Demolition Bot Design",
+          "href": "https://example.com/robot"
+        },
+        {
+          "id": "sunmachine-child3",
+          "label": "Solar Transition Sequence",
+          "href": "https://example.com/solar"
+        }
+      ]
+    },
+    {
+      "id": "maxwell",
+      "label": "Maxwell Ardeen",
+      "children": [
+        {
+          "id": "maxwell-child1",
+          "label": "Immortality & Art",
+          "href": "https://example.com/eternity"
+        },
+        {
+          "id": "maxwell-child2",
+          "label": "Virtual Curation",
+          "href": "https://example.com/virtual"
+        }
+      ]
+    }
+  ],
+  "art": [
+    {
+      "id": "gallery1",
+      "label": "Dream Fragments",
+      "children": [
+        {
+          "id": "curator1",
+          "label": "Curator Notes",
+          "href": "https://example.com/curator"
+        },
+        {
+          "id": "fragment1",
+          "label": "Fragment: Shoreline",
+          "href": "https://example.com/shoreline"
+        }
+      ]
+    }
+  ]
+}
