@@ -6,44 +6,62 @@
       "children": [
         {
           "id": "fairy",
-          "label": "Fairy Tale as Form",
+          "label": "Fairy Tale is Form",
           "href": "https://www.are.na/block/10278512",
-          "description": "Explores the structure of fairy tales as narrative devices."
+          "description": "Kate Berhiemmer's extraordinary study of fairy tale as a linguistic mode."
         },
         {
           "id": "function",
           "label": "Fable Function",
           "href": "https://socratesonthebeach.com/nick-norton"
+          "description": "A challenging essay on the function of the fable in society."
         },
         {
           "id": "yu",
           "label": "Fable by Charles Yu",
           "href": "https://www.newyorker.com/magazine/2016/05/30/fable-by-charles-yu"
+          "description": "A heartbreaking tale from Charles Yu. I read it and cry once a year."
         }
       ]
     }
   ],
   "story": [
     {
-      "id": "sunmachine",
-      "label": "The Sun Machine",
+      "id": "Magic",
+      "label": "Un-Pragmagic",
       "children": [
         {
-          "id": "sunmachine-child1",
-          "label": "Symbiosis Theme",
-          "href": "https://example.com/symbiosis",
-          "description": "The partnership between machine and sun-devourer."
+          "id": "arson",
+          "label": "Hanging Fire",
+          "type": "image",
+          "src": "https://www.icaboston.org/wp-content/uploads/2023/03/parkerhanging-firehr750.jpg",
+          "href": "https://www.icaboston.org/art/cornelia-parker/hanging-fire-suspected-arson/"
+          "description": "Cornelia Parker's stunning scultpure. A huge inspiration for this story."
         },
         {
-          "id": "sunmachine-child2",
-          "label": "Demolition Bot Design",
-          "href": "https://example.com/robot"
+          "id": "gelmeroda",
+          "label": "Gelmeroda IV",
+          "type": "image",
+          "src": "https://www.guggenheim.org/wp-content/uploads/1915/01/54.1410_ph_web-1.jpg",
+          "href": "https://www.guggenheim.org/artwork/1220"
+          "description": "Lyonel Feinger's study of the Gelmeroda cathedral, one of many in a series."
         },
         {
-          "id": "sunmachine-child3",
-          "label": "Solar Transition Sequence",
-          "href": "https://example.com/solar"
-        }
+          "id": "longdistance",
+          "label": "Long distance",
+          "type": "image",
+          "src": "https://www.guggenheim.org/wp-content/uploads/1916/01/79.2602.2_ph_web-1.jpg",
+          "href": "https://www.guggenheim.org/artwork/32208"
+          "description": "Man Ray's painting Long Distance."
+        },
+        {
+          "id": "vertical",
+          "label": "Vertical Accents",
+          "type": "image",
+          "src": "https://www.wassilykandinsky.net/images/works/746.jpg?version=7",
+          "href": "https://www.wassilykandinsky.net/work-746.php"
+          "description": "Wassily Kandinsky's painting Vertical Accents."
+        },
       ]
     }
   ],
