@@ -1,7 +1,7 @@
 {
   "topic": [
     {
-      "id": "myth",
+      "id": "fairy",
       "label": "Fairy Tale/Fable",
       "children": [
         {
@@ -64,7 +64,61 @@
         }
       ]
     }
-  ],
+    {
+      "id": "heliopause",
+      "label": "Heliopause",
+      "children":
+        {
+          "id": "dove",
+          "label": "Sunset",
+          "type": "image",
+          "src": "https://www.ekphrastic.net/uploads/1/4/0/7/14070919/d7hftxdivxxvm_orig.jpeg",
+          "href": "https://artgallery.yale.edu/collections/objects/46733",
+          "description": "Arthur Dove's painting, Sunrise III, the central image of the story."
+        },
+        {
+          "id": "heliopausestory",
+          "label": "Heliopause, by Spencer Nitkey"
+          "href": "https://www.ekphrastic.net/the-ekphrastic-review/heliopause-by-spencer-nitkey",
+          "description": "Four interconnected literary/speculative flash fictions inspired by Arthur Dove’s painting, Sunrise, III. Katherine Dreier prepares to deliver a lecture on art while meditating on pain; mountain lions surround a San Jose ranch; a musician searches for melody, and a distant future human contemplates the end of the solar system."
+        },
+          {
+          "id": "heliopause album",
+          "label": "Heliopause, album by Anne Muller"
+          "href": "https://www.erasedtapes.com/release/eratp128-anne-mueller-heliopause",
+          "description": "A haunting, beautiful album by cellist Anne Muller. Her first solo project."
+        },
+          {
+          "id": "modernart",
+          "label": "Intrinsic Significance in Modern Art"
+          "href": "https://monoskop.org/images/a/a4/Dreier_Sweeney_Gabo_Three_Lectures_on_Modern_Art.pdf",
+          "description": "An essay/speech on the value of modern art, delivered by Katherine S. Dreier."
+        },
+        {
+          "id": "foothills",
+          "label": "East Foothills, San Jose",
+          "type": "image",
+          "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5gFTQwjFPMc6Zh_7ITPQAjfRYu4K43l3aQ&s",
+          "href": "https://en.wikipedia.org/wiki/East_Foothills,_San_Jose",
+          "description": "The East Foothills of San Jose."
+        },
+        {
+          "id": "monet",
+          "label": "Impression, Sunrise by Monet",
+          "type": "image",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/1024px-Monet_-_Impression%2C_Sunrise.jpg",
+          "href": "https://www.claude-monet.com/impression-sunrise.jsp",
+          "description": "Claude Monet's impressionistic masterpiece."
+        },    
+        {
+          "id": "dyson",
+          "label": "Dyson sphere",
+          "type": "image",
+          "src": "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dyson_Swarm_realistic_representation_cropped.jpg/250px-Dyson_Swarm_realistic_representation_cropped.jpg",
+          "href": "https://www.science.org/doi/10.1126/science.131.3414.1667",
+          "description": "Claude Monet's impressionistic masterpiece."
+        }      
+  ]
   "art": [
     {
       "id": "gallery1",
