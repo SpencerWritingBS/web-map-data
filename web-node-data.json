@@ -114,7 +114,7 @@
           "id": "dyson",
           "label": "Dyson sphere",
           "type": "image",
-          "src": "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dyson_Swarm_realistic_representation_cropped.jpg/250px-Dyson_Swarm_realistic_representation_cropped.jpg",
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dyson_Swarm_realistic_representation_cropped.jpg/250px-Dyson_Swarm_realistic_representation_cropped.jpg",
           "href": "https://www.science.org/doi/10.1126/science.131.3414.1667",
           "description": "Claude Monet's impressionistic masterpiece."
         }      
